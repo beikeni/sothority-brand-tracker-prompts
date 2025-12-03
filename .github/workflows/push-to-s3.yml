@@ -2,9 +2,7 @@ name: Push Prompts to S3
 
 on:
   push:
-    branches:
-      - main
-  workflow_dispatch:
+  # workflow_dispatch:
 
 env:
   AWS_REGION: eu-central-1

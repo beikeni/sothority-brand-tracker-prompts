@@ -1,0 +1,1 @@
+Generate {{ count }} prompts for the brand {{ brandObject }} of type {{ promptType }}
