@@ -1,0 +1,1 @@
+All agents output are strongly typed. 
